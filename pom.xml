@@ -17,9 +17,6 @@
     </description>
 
     <properties>
-        <webapp.protocol>http</webapp.protocol>
-        <webapp.host>www.mozilla.com</webapp.host>
-        <webapp.port>88</webapp.port>
         <webapp.uris>${project.basedir}/src/test/uris/uris.txt</webapp.uris>
         <jmeter.analysis.maven.plugin.version>1.0.6</jmeter.analysis.maven.plugin.version>
         <jmeter-maven-plugin.version>2.0.3</jmeter-maven-plugin.version>
